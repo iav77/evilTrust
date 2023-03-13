@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # evilTrust v2.0, Author @s4vitar (Marcelo Vázquez)
-
+#
 #Colours
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
@@ -382,3 +382,4 @@ else
 	echo -e "\n${redColour}[!] Es necesario ser root para ejecutar la herramienta${endColour}"
 	exit 1
 fi
+#12
